@@ -20,6 +20,8 @@ python HowAglomerativeClusterWorks.py
 python MeanShiftCluster.py
 python DBScanCluster.py
 python RealDataCluster.py
+python InternalEvaluation.py
+python ExternalEvaluation.py
 ```
 
 ## Installing using GitHub
